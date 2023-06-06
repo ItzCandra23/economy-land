@@ -1,4 +1,4 @@
-# EconomyLand
+# EconomyLand (BETA)
 [EconomyLand](https://github.com/ItzCandra23/economy-land) its a land plugin for [BDSX](https://github.com/bdsx/bdsx)
 
 ## Commands
