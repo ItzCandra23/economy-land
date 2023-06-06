@@ -1,0 +1,32 @@
+command.error.console=This command can't use in console
+command.land.description=Land Commands.
+
+player.xuid.notfound=Xuid not found!
+player.money.notenough=You don't have enough money to buy
+player.notfound=Player not found!
+player.invalid.size=Invalid size
+player.invalid.number=Invalid number
+player.invalid.name=Invalid name
+player.error.permission=You don't have permission
+player.error.dimension=Please back to Overworld dimension
+
+land.members=§aMembers: §6[ §r{members}§6 ]
+
+land.error.hasclaim=This land has been claimed!
+land.error.notfound=Land not found!
+
+land.success.claim=§aSuccess claim this land §r{pos1}, {pos2} §r§afor §e{price}
+land.success.remove=§aSuccess remove this land §r{pos1}, {pos2} §r§afor §e{price}
+land.success.setname=§aSuccess change land name to §r{land}
+
+member.error.hasowner=Cannot add owner to member in own land
+member.error.hasmember=This player has been added to member before
+member.error.notfound=Member not found!
+
+owner.success.set=§e{name} §ahas been set as owner in§r {land}§r {pos}
+owner.success.set2=§e{name} §ahas set you as owner in§r {land}§r {pos}
+
+member.success.add=§e{name} §ahas been added as member in§r {land}§r {pos}
+member.success.add2=§e{name} §ahas added you as member in§r {land}§r {pos}
+member.success.remove=§e{name} §ahas been removed from members in§r {land}§r {pos}
+member.success.remove=§e{name} §ahas remove you from members in§r {land}§r {pos}

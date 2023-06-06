@@ -1,0 +1,14 @@
+{
+    "name": "@bdsx/economy-land",
+    "description": "This plugin for BDSX",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "ISC",
+    "keywords": [ "economy-land", "economy-x", "BDSX" ],
+    "author": "ItzCandra23",
+    "homepage": "https://github.com/ItzCandra23/economy-land",
+    "bdsxPlugin": true,
+    "devDependencies": {
+        "bdsx": "file:../bdsx"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "price": 1,
+    "sell": 1,
+    "land_size": {
+        "min": 9,
+        "max": 2000
+    }
+}
